@@ -1,2 +1,2 @@
 # neonlabs
-It's a home of the Neon rollup 
+It's a home of the Neon EVM
